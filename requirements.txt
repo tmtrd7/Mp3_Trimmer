@@ -1,0 +1,7 @@
+streamlit
+pydub
+librosa
+matplotlib
+numpy
+soundfile
+audioop-lts
